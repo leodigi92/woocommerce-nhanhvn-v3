@@ -1,0 +1,67 @@
+.nhanhvn-settings-box {
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.nhanhvn-settings-box h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.nhanhvn-settings-form .form-table th {
+    width: 200px;
+    padding: 10px;
+}
+
+.nhanhvn-settings-form .form-table td {
+    padding: 10px;
+}
+
+.nhanhvn-settings-form .form-table input[type="text"] {
+    width: 400px;
+}
+
+.nhanhvn-settings-form .button.nhanhvn-get-token {
+    background: #28a745;
+    border-color: #28a745;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.nhanhvn-settings-form .button.nhanhvn-get-token:hover {
+    background: #218838;
+    border-color: #218838;
+}
+
+.nhanhvn-settings-form .button.nhanhvn-copy-url {
+    background: #007bff;
+    border-color: #007bff;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.nhanhvn-settings-form .button.nhanhvn-copy-url:hover {
+    background: #0069d9;
+    border-color: #0069d9;
+}
+
+.nhanhvn-settings-form .button.nhanhvn-save-settings {
+    background: #28a745;
+    border-color: #28a745;
+    color: #fff;
+    float: right;
+}
+
+.nhanhvn-settings-form .button.nhanhvn-save-settings:hover {
+    background: #218838;
+    border-color: #218838;
+}
+
+.nhanhvn-settings-form .submit {
+    margin-top: 20px;
+    text-align: right;
+}

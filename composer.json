@@ -1,0 +1,12 @@
+{
+  "name": "leodigi92/nhanh-vn-integration",
+  "description": "Tích hợp WooCommerce với Nhanh.vn",
+  "require": {
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nhanhvn\\": "includes/"
+    }
+  }
+}

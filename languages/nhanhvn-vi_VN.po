@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nhanh.vn Integration\n"
+"POT-Creation-Date: 2025-04-13 12:00+0700\n"
+"PO-Revision-Date: 2025-04-13 12:00+0700\n"
+"Last-Translator: Leodigi92\n"
+"Language-Team: Leodigi92\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Nhanh.vn Sync"
+msgstr "Đồng bộ Nhanh.vn"
+
+msgid "Settings saved."
+msgstr "Cài đặt đã được lưu."
+
+msgid "Sync Status"
+msgstr "Trạng thái đồng bộ"
+
+msgid "Type"
+msgstr "Loại"
+
+msgid "Item ID"
+msgstr "ID mục"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Message"
+msgstr "Thông báo"
+
+msgid "Time"
+msgstr "Thời gian"
+
+msgid "Save Settings"
+msgstr "Lưu cài đặt"
+
+msgid "Nhanh.vn Shipping"
+msgstr "Vận chuyển Nhanh.vn"
+
+msgid "Tích hợp vận chuyển với Nhanh.vn"
+msgstr "Tích hợp vận chuyển với Nhanh.vn"
+
+msgid "Title"
+msgstr "Tiêu đề"
+
+msgid "Tên phương thức vận chuyển hiển thị cho khách hàng."
+msgstr "Tên phương thức vận chuyển hiển thị cho khách hàng."
+
+msgid "Nhanh.vn Integration requires WooCommerce to be installed and active."
+msgstr "Tích hợp Nhanh.vn yêu cầu WooCommerce được cài đặt và kích hoạt."
+
+msgid "Manual Sync"
+msgstr "Đồng bộ thủ công"
+
+msgid "Sync Type"
+msgstr "Loại đồng bộ"
+
+msgid "Products"
+msgstr "Sản phẩm"
+
+msgid "Orders"
+msgstr "Đơn hàng"
+
+msgid "Sync Now"
+msgstr "Đồng bộ ngay"
+
+msgid "Product sync queued."
+msgstr "Đồng bộ sản phẩm đã được xếp hàng."
+
+msgid "Order sync queued."
+msgstr "Đồng bộ đơn hàng đã được xếp hàng."
+
+msgid "Enable GHN Shipping"
+msgstr "Kích hoạt Giao Hàng Nhanh (GHN)"
+
+msgid "Enable GHTK Shipping"
+msgstr "Kích hoạt Giao Hàng Tiết Kiệm (GHTK)"
+
+msgid "GHN Shipping"
+msgstr "Vận chuyển GHN"
+
+msgid "Tích hợp vận chuyển với GHN qua Nhanh.vn"
+msgstr "Tích hợp vận chuyển với GHN qua Nhanh.vn"
+
+msgid "GHTK Shipping"
+msgstr "Vận chuyển GHTK"
+
+msgid "Tích hợp vận chuyển với GHTK qua Nhanh.vn"
+msgstr "Tích hợp vận chuyển với GHTK qua Nhanh.vn"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Reports"
+msgstr "Báo cáo"
+
+msgid "Help"
+msgstr "Hỗ trợ"
+
+msgid "Sync Reports"
+msgstr "Báo cáo đồng bộ"
+
+msgid "Successful"
+msgstr "Thành công"
+
+msgid "Failed"
+msgstr "Thất bại"
+
+msgid "Customers"
+msgstr "Khách hàng"
+
+msgid "Help & Documentation"
+msgstr "Hỗ trợ & Tài liệu"
+
+msgid "Welcome to Nhanh.vn Integration plugin. This plugin helps you sync products, orders, customers, inventory, and shipping with Nhanh.vn."
+msgstr "Chào mừng bạn đến với plugin Tích hợp Nhanh.vn. Plugin này giúp bạn đồng bộ sản phẩm, đơn hàng, khách hàng, tồn kho và vận chuyển với Nhanh.vn."
+
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+msgid "Obtain your Nhanh.vn API credentials from your Nhanh.vn account."
+msgstr "Lấy thông tin xác thực API Nhanh.vn từ tài khoản Nhanh.vn của bạn."
+
+msgid "Go to WooCommerce > Nhanh.vn Sync > General Settings and enter your App ID, Secret Key, and retrieve an Access Token."
+msgstr "Vào WooCommerce > Đồng bộ Nhanh.vn > Cài đặt chung và nhập App ID, Secret Key, sau đó lấy Access Token."
+
+msgid "Enable desired shipping methods (GHN, GHTK) if needed."
+msgstr "Kích hoạt các phương thức vận chuyển mong muốn (GHN, GHTK) nếu cần."
+
+msgid "Use the Products or Inventory tabs to sync data manually."
+msgstr "Sử dụng tab Sản phẩm hoặc Kho hàng để đồng bộ dữ liệu thủ công."
+
+msgid "Check the Logs tab to monitor sync progress."
+msgstr "Kiểm tra tab Nhật ký để theo dõi tiến độ đồng bộ."
+
+msgid "Troubleshooting"
+msgstr "Khắc phục sự cố"
+
+msgid "If sync fails, check the Logs tab for error messages."
+msgstr "Nếu đồng bộ thất bại, kiểm tra tab Nhật ký để xem thông báo lỗi."
+
+msgid "Ensure your App ID, Secret Key, and Access Token are correct."
+msgstr "Đảm bảo App ID, Secret Key và Access Token của bạn đúng."
+
+msgid "Verify that your server allows outgoing HTTP requests to Nhanh.vn API."
+msgstr "Xác minh rằng server của bạn cho phép các yêu cầu HTTP gửi đến API Nhanh.vn."
+
+msgid "Check WooCommerce logs (WooCommerce > Status > Logs) for detailed errors."
+msgstr "Kiểm tra nhật ký WooCommerce (WooCommerce > Trạng thái > Nhật ký) để xem lỗi chi tiết."
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid "For further assistance, contact the developer at:"
+msgstr "Để được hỗ trợ thêm, liên hệ với nhà phát triển tại:"
+
+msgid "Nhanh.vn Integration requires Composer dependencies. Please run `composer install` in the plugin directory."
+msgstr "Tích hợp Nhanh.vn yêu cầu các phụ thuộc Composer. Vui lòng chạy `composer install` trong thư mục plugin."
+
+msgid "Webhook Management"
+msgstr "Quản lý Webhook"
+
+msgid "Click the button below to register the webhook with Nhanh.vn."
+msgstr "Nhấn nút bên dưới để đăng ký webhook với Nhanh.vn."
+
+msgid "Register Webhook"
+msgstr "Đăng ký Webhook"
+
+msgid "Webhook registered successfully."
+msgstr "Webhook đã được đăng ký thành công."
+
+msgid "Failed to register webhook: "
+msgstr "Không thể đăng ký webhook: "
+
+msgid "General Settings"
+msgstr "Cài đặt chung"
+
+msgid "Product Sync"
+msgstr "Đồng bộ sản phẩm"
+
+msgid "Sync All Products"
+msgstr "Đồng bộ tất cả sản phẩm"
+
+msgid "Sync Selected Products"
+msgstr "Đồng bộ sản phẩm được chọn"
+
+msgid "Selected products synced."
+msgstr "Sản phẩm được chọn đã được đồng bộ."
+
+msgid "All products synced."
+msgstr "Tất cả sản phẩm đã được đồng bộ."
+
+msgid "Product ID"
+msgstr "ID sản phẩm"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Price"
+msgstr "Giá"
+
+msgid "Stock"
+msgstr "Tồn kho"
+
+msgid "No products found."
+msgstr "Không tìm thấy sản phẩm."
+
+msgid "Inventory Sync"
+msgstr "Đồng bộ kho hàng"
+
+msgid "Sync All Inventory"
+msgstr "Đồng bộ tất cả kho hàng"
+
+msgid "Sync Selected Inventory"
+msgstr "Đồng bộ kho hàng được chọn"
+
+msgid "Selected inventory synced."
+msgstr "Kho hàng được chọn đã được đồng bộ."
+
+msgid "All inventory synced."
+msgstr "Tất cả kho hàng đã được đồng bộ."
+
+msgid "Shipping Settings"
+msgstr "Cài đặt vận chuyển"
+
+msgid "Current Configuration"
+msgstr "Cấu hình hiện tại"
+
+msgid "Yes"
+msgstr "Có"
+
+msgid "No"
+msgstr "Không"
+
+msgid "Test Shipping Fee"
+msgstr "Kiểm tra phí vận chuyển"
+
+msgid "Carrier"
+msgstr "Đơn vị vận chuyển"
+
+msgid "City"
+msgstr "Thành phố"
+
+msgid "Address"
+msgstr "Địa chỉ"
+
+msgid "Weight (kg)"
+msgstr "Trọng lượng (kg)"
+
+msgid "Shipping fee: %s"
+msgstr "Phí vận chuyển: %s"
+
+msgid "Failed to calculate shipping fee: "
+msgstr "Không thể tính phí vận chuyển: "
+
+msgid "Webhook Status"
+msgstr "Trạng thái Webhook"
+
+msgid "Unregister Webhook"
+msgstr "Hủy đăng ký Webhook"
+
+msgid "Webhook unregistered successfully."
+msgstr "Webhook đã được hủy đăng ký thành công."
+
+msgid "Failed to unregister webhook: "
+msgstr "Không thể hủy đăng ký webhook: "
+
+msgid "No webhook logs found."
+msgstr "Không tìm thấy nhật ký webhook."
+
+msgid "Sync Logs"
+msgstr "Nhật ký đồng bộ"
+
+msgid "All Types"
+msgstr "Tất cả loại"
+
+msgid "Order Sync"
+msgstr "Đồng bộ đơn hàng"
+
+msgid "Inventory Sync"
+msgstr "Đồng bộ kho hàng"
+
+msgid "All Statuses"
+msgstr "Tất cả trạng thái"
+
+msgid "Success"
+msgstr "Thành công"
+
+msgid "Error"
+msgstr "Lỗi"
+
+msgid "Filter"
+msgstr "Lọc"
+
+msgid "No logs found."
+msgstr "Không tìm thấy nhật ký."
+
+msgid "App ID"
+msgstr "ID ứng dụng"
+
+msgid "Enter your Nhanh.vn App ID."
+msgstr "Nhập ID ứng dụng Nhanh.vn của bạn."
+
+msgid "Secret Key"
+msgstr "Khóa bí mật"
+
+msgid "Enter your Nhanh.vn Secret Key."
+msgstr "Nhập Khóa bí mật Nhanh.vn của bạn."
+
+msgid "Access Token"
+msgstr "Token truy cập"
+
+msgid "Click to retrieve an access token from Nhanh.vn."
+msgstr "Nhấn để lấy token truy cập từ Nhanh.vn."
+
+msgid "Get Access Token"
+msgstr "Lấy Access Token"
+
+msgid "Access token retrieved successfully."
+msgstr "Token truy cập đã được lấy thành công."
+
+msgid "Failed to retrieve access token: "
+msgstr "Không thể lấy token truy cập: "
+
+msgid "Redirect URL"
+msgstr "URL chuyển hướng"
+
+msgid "Copy this URL and add it to your Nhanh.vn application settings."
+msgstr "Sao chép URL này và thêm vào cài đặt ứng dụng Nhanh.vn của bạn."
+
+msgid "Copy"
+msgstr "Sao chép"
+
+msgid "Are you sure you want to sync?"
+msgstr "Bạn có chắc chắn muốn đồng bộ không?"
+
+msgid "Copy successful!"
+msgstr "Sao chép thành công!"
+
+msgid "Failed to copy."
+msgstr "Sao chép thất bại."
